@@ -29,12 +29,17 @@ In open and short stubs, transfer impedance varies with line length.It is used t
 Engineers exploit transfer impedance to control how signals interact between different parts of a system.
 
 **4. Applications**
-Impedance Matching: Open and short stubs cancel unwanted reactances, improving signal transfer.
+
+**Impedance Matching:**
+
+Open and short stubs cancel unwanted reactances, improving signal transfer.
 
 **Filters:**
+
 Stubs act as band-stop or band-pass filters depending on their length.
 
 **Resonators:**
+  
 Quarter-wave and half-wave stubs create resonant structures used in oscillators and antennas.
 
 **5. Key Observations**
