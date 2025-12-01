@@ -17,6 +17,8 @@ The line alternates between acting like a short circuit and an open circuit depe
 
 The line alternates between acting like an open circuit and a short circuit depending on its length.At a quarter wavelength, the input looks open even though the end is shorted.At half a wavelength, the input looks short again.Both cases show a periodic transformation of impedance with line length.
 
+![OIP](https://github.com/user-attachments/assets/679b3334-eff1-4496-839e-13bbf628eb9c)
+
 **3. Transfer Impedance**
 
 Transfer impedance describes how voltage at one point on the line relates to current at another point.
