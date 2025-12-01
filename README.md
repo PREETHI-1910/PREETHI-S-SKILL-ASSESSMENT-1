@@ -7,6 +7,7 @@ Transmission lines are used to carry signals in radio frequency (RF) and microwa
 **2. Input Impedance**
 
 Input impedance is the opposition a transmission line presents to a signal at its input.
+<img width="796" height="433" alt="inputimp-1" src="https://github.com/user-attachments/assets/9441c5d5-ac9e-48ae-91f9-bb66401664f9" />
 
 **Open-Circuited Line:**
 
@@ -25,6 +26,7 @@ Transfer impedance describes how voltage at one point on the line relates to cur
 In open and short stubs, transfer impedance varies with line length.It is used to understand coupling between circuits and to design filters or resonators.
 
 **Practical Use:**
+
 
 Engineers exploit transfer impedance to control how signals interact between different parts of a system.
 
