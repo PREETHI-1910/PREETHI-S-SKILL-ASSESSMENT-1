@@ -22,6 +22,7 @@ The line alternates between acting like an open circuit and a short circuit depe
 **3. Transfer Impedance**
 
 Transfer impedance describes how voltage at one point on the line relates to current at another point.
+<img width="1160" height="525" alt="R" src="https://github.com/user-attachments/assets/86d498d4-66dc-44a4-bd04-8adf6f4b9f61" />
 
 **Behavior:**
 
@@ -38,6 +39,8 @@ Engineers exploit transfer impedance to control how signals interact between dif
 
 Open and short stubs cancel unwanted reactances, improving signal transfer.
 
+![download](https://github.com/user-attachments/assets/53bbf95d-d6cb-4fcf-b53e-a3eddacdb1c3)
+
 **Filters:**
 
 Stubs act as band-stop or band-pass filters depending on their length.
@@ -45,6 +48,7 @@ Stubs act as band-stop or band-pass filters depending on their length.
 **Resonators:**
   
 Quarter-wave and half-wave stubs create resonant structures used in oscillators and antennas.
+<img width="439" height="177" alt="Figure-2-Transmission-line-stub-resonator" src="https://github.com/user-attachments/assets/c8ef174d-2077-4cc2-99af-a8450071bd75" />
 
 **5. Key Observations**
 
